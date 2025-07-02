@@ -1,2 +1,3 @@
 # powerbi-dashboard
-Power BI dashboard showcasing analysis of Netflix dataset with visuals on content trends, genres, and time-based insights
+Excited to share my latest Power BI projects showcasing data insights, visual storytelling, and KPI tracking.
+\#PowerBI #GitHub #DataAnalytics #Dashboard #Visualization #BIProjects
