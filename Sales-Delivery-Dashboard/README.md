@@ -25,4 +25,4 @@ An interactive Power BI dashboard designed to analyze sales performance, deliver
 
 ## Dashboard Preview
 
-![Sales & Delivery Performance Dashboard](Screenshot-2026-09-26-192616.png)
+![Sales & Delivery Performance Dashboard](Screenshot%202026-09-26%20192616.png)
