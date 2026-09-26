@@ -21,4 +21,5 @@ An interactive Power BI dashboard designed to analyze Netflix content and provid
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Netflix-Dashboard.png)
+![Netflix Dashboard](Screenshot%202026-09-26%20192231.png)
+
