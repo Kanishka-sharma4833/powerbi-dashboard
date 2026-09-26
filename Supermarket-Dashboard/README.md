@@ -24,4 +24,4 @@ An interactive Power BI dashboard designed to analyze supermarket sales performa
 
 ## Dashboard Preview
 
-![Supermarket Dashboard](Supermarket-Dashboard.png)
+![Supermarket Dashboard](Screenshot%202024-08-05%20205719.png)
