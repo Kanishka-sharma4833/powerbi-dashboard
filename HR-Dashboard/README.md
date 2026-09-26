@@ -21,4 +21,4 @@ An interactive Power BI dashboard designed to analyze workforce data and provide
 
 ## Dashboard Preview
 
-![HR Dashboard](HR_Dashboard.png)
+![HR Dashboard](Screenshot%202026-09-26%20192114.png)
